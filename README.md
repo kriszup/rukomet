@@ -14,21 +14,6 @@ Aplikacija nema bazu ni backend. Podaci se spremaju u `localStorage` preglednika
 
 Odnos: jedna ekipa može imati više turnira (1:N).
 
-## Pokretanje
-
-```bash
-npm install
-npm run dev
-```
-
-Izrada za objavu na webu:
-
-```bash
-npm run build
-```
-
-Sadržaj mape `dist/` učitava se na server.
-
 ## Struktura
 
 ```
